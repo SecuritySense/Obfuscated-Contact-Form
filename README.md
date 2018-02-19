@@ -6,6 +6,6 @@ To create the obfuscated email code visit http://www.jottings.com/obfuscator/ an
 
 Once implemented submit a message via the form and as this is the first submission you will be asked to confirm your email address
 
-<img src="https://user-images.githubusercontent.com/21248753/36389885-baad01fe-1598-11e8-89df-e2bb3674506f.png" class="centerImage" width="506" alt="screen">
+<center><img src="https://user-images.githubusercontent.com/21248753/36389885-baad01fe-1598-11e8-89df-e2bb3674506f.png" class="centerImage" width="506" alt="screen"></center>
 
 ign up for the free Formspree service at https://formspree.io/
