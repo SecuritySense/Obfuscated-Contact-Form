@@ -12,4 +12,4 @@ Once implemented on your web site submit a message via the form and as this is t
 
 The Formspree service is free and details can be found at https://formspree.io/
 
-Thanks go out to Tim Williams and Andrew Moulden for the obfuscation script as well as Michel Plungjan (@mplungjan https://twitter.com/mplungjan) for the contact form code.
+Thanks go out to Tim Williams and Andrew Moulden for the obfuscation script as well as Michel Plungjan <a href="https://twitter.com/mplungjan">@mplungjan</a> for the contact form code.
