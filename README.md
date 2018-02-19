@@ -1,4 +1,4 @@
-# Obfuscated-Contact-Form
+# Obfuscated-Email-Contact-Form
 
 This code implements a contact form in Javascript which utilises Formspree and the inclusion of an obfuscated email address using the email obfuscator script v2.1 by Tim Williams, University of Arizona.
 
