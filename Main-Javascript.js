@@ -1,5 +1,5 @@
 script type="text/javascript">
-var text = '<h3>Please complete the form below and I will get back to you ASAP</h1>'+
+var text = '<h3>Please complete the form below and I will get back to you ASAP</h3>'+
 '<br></br>'+
 '<form method="POST" action="https://formspree.io/';
 var email = '">';
@@ -14,7 +14,6 @@ var therest = '<label for="name" style="font-size: 14px; font-family:arial,helve
 '<textarea name="message" placeholder="Please enter message" rows="4" style="width: 400px;"></textarea>'+
 '</div>'+
 '<p><input type="submit" value="Send"></p>'+
-'<input type="hidden" name="_next" value="/article/thank-you-for-your-email">';
 '</form>';
 <!--
 Enter obfuscation code here from http://www.jottings.com/obfuscator/
