@@ -13,3 +13,10 @@ Once implemented on your web site submit a message via the form and as this is t
 The Formspree service is free and details can be found at https://formspree.io/
 
 Thanks go out to Tim Williams and Andrew Moulden for the obfuscation script as well as Michel Plungjan <a href="https://twitter.com/mplungjan/" target="_blank">@mplungjan</a> for the contact form code.
+
+
+```javascript {.line-numbers}
+function add(x, y) {
+  return x + y
+}
+```
